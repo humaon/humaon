@@ -17,7 +17,7 @@
 ```javascript
 const humaon = {
     role: "Full Stack Developer",
-    experience: "6+ years",
+    experience: "8+ years",
     specialization: ["Backend Development", "DevOps", "Cloud Architecture"],
     currentFocus: "Optimizing backend services & integrating DevOps practices",
     learning: ["Python", "Microservices", "Kafka"],
